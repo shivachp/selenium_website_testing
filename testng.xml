@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Selenium-website">
+<test name="Test">
+
+<classes>
+
+<class name="TestNg.Testcase1"/>
+<class name="TestNg.Testcase2"/>
+
+</classes>
+</test>
+</suite>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-11-10T21:46:20Z" name="Selenium-website" finished-at="2018-11-10T21:48:33Z" duration-ms="133093">
+    <groups>
+    </groups>
+    <test started-at="2018-11-10T21:46:20Z" name="Test" finished-at="2018-11-10T21:48:33Z" duration-ms="133093">
+      <class name="TestNg.Testcase2">
+        <test-method is-config="true" signature="launch()[pri:0, instance:TestNg.Testcase2@2cd2a21f]" started-at="2018-11-10T21:47:27Z" name="launch" finished-at="2018-11-10T21:48:26Z" duration-ms="58307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="verifylogin()[pri:0, instance:TestNg.Testcase2@2cd2a21f]" started-at="2018-11-10T21:48:26Z" name="verifylogin" finished-at="2018-11-10T21:48:33Z" duration-ms="7522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin -->
+      </class> <!-- TestNg.Testcase2 -->
+      <class name="TestNg.Testcase1">
+        <test-method is-config="true" signature="launch()[pri:0, instance:TestNg.Testcase1@62230c58]" started-at="2018-11-10T21:46:20Z" name="launch" finished-at="2018-11-10T21:47:16Z" duration-ms="55712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="verifywebiste()[pri:0, instance:TestNg.Testcase1@62230c58]" started-at="2018-11-10T21:47:16Z" name="verifywebiste" finished-at="2018-11-10T21:47:27Z" duration-ms="11533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifywebiste -->
+      </class> <!-- TestNg.Testcase1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Selenium-website -->
+</testng-results>
